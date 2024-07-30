@@ -1,0 +1,1 @@
+![diseño de chat](./img/readME.PNG)
